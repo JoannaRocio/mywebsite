@@ -1,7 +1,6 @@
 import React from 'react';
 import { Container, Typography } from '@mui/material';
 import AboutMe from './AboutMe';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 function Home() {
 return (

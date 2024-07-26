@@ -1,6 +1,5 @@
 import React from 'react';
 import { Typography, List, ListItem } from '@mui/material';
-import { GitHub, Email } from '@mui/icons-material';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngular, faReact, faHtml5, faSass, faJs, faBootstrap } from '@fortawesome/free-brands-svg-icons';
 import 'bootstrap/dist/css/bootstrap.min.css';

@@ -17,7 +17,7 @@ const pages = ['Sobre mi', 'Experiencia laboral', 'Cursos realizados', 'Mis proy
 function AppHeader() {
 
   const [anchorElNav, setAnchorElNav] = React.useState(null);
-  const [anchorElUser, setAnchorElUser] = React.useState(null);
+  const [ setAnchorElUser] = React.useState(null);
 
   const handleOpenNavMenu = (event) => {
     setAnchorElNav(event.currentTarget);
@@ -28,10 +28,6 @@ function AppHeader() {
 
   const handleCloseNavMenu = () => {
     setAnchorElNav(null);
-  };
-
-  const handleCloseUserMenu = () => {
-    setAnchorElUser(null);
   };
 
   return (
