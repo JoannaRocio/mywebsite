@@ -6,7 +6,7 @@ import AppFooter from './components/Footer';
 import 'antd/dist/reset.css';
 import './styles/index.css';
 import './styles/Header.css';
-import Home from './pages/home';
+import Home from './pages/Home';
 
 
 const { Content } = Layout;
