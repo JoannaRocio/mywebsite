@@ -1,14 +1,12 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import About from './pages/about';
 import AppHeader from './components/Header';
 import { Layout } from 'antd';
 import AppFooter from './components/Footer';
 import 'antd/dist/reset.css';
-import './styles/index.css'
-import './styles/Header.css'
-import Home from './pages/Home';
-
+import './styles/index.css';
+import './styles/Header.css';
+import Home from './pages/home';
 
 
 const { Content } = Layout;
