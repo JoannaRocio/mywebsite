@@ -13,17 +13,15 @@ function AboutMe() {
         <h4>Sobre mi</h4>
         <p>
 
-          ¡Hola!, soy Joanna, una programadora apasionada por el desarrollo de aplicaciones web. 
+          ¡Hola!, soy Joanna, una programadora apasionada por el diseño y el desarrollo de aplicaciones ya sea web, de escritorio o un videojuego. 
           Poseo una amplia experiencia creando aplicaciones web. 
           En el frontend, trabajo con tecnologías como Angular y React, mientras que en el backend tengo 
-          conocimientos en la creación y gestión de endpoints HTTP, así como en el uso del patrón de 
+          conocimientos en .Net para la creación y gestión de endpoints HTTP, así como en el uso del patrón de 
           diseño MVC.
 
-          Disfruto trabajando en equipo y poseo habilidades de comunicación efectiva. 
-          Estoy en busca de oportunidades para formar parte de un equipo de IT en una empresa donde 
-          pueda desarrollarme profesionalmente y contribuir con mis habilidades. 
-          Además, estoy disponible para trabajos freelance, con el objetivo de seguir aprendiendo 
-          demostrando mi trabajo de manera constante.
+          Disfruto trabajando en equipo y poseo habilidades de comunicación efectiva.
+          Busco aprender más cosas, mejorar día a día y compartir mi trabajo y mis conocimientos con los demás. 
+          Además, estoy disponible para trabajos freelance, ya que en mis tiempos libres disfruto mucho desarrollar y diseñar aplicaciones libremente.
 
         </p>
 
