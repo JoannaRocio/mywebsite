@@ -7,12 +7,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function AboutMe() {
   return (
     <div style={{ padding: '20px', maxWidth: '800px', margin: 'auto' }}>
+
       <Typography variant="h4" gutterBottom>
         Sobre Mí
       </Typography>
+
       <Typography variant="h5" gutterBottom >
         Joanna Sakugawa - Programadora Web
       </Typography>
+
       <div style={{ marginBottom: '20px' }}>
         <Typography variant="body1">
           Hola, soy Joanna Sakugawa, una programadora apasionada por el desarrollo de aplicaciones web. 
@@ -28,6 +31,7 @@ function AboutMe() {
           desarrollarme profesionalmente y contribuir con mis habilidades.
         </Typography>
       </div>
+
       <div className="tech-container">
         <div className="tech-item">
           <FontAwesomeIcon className="beating-icons" icon={faAngular} beat />
@@ -54,9 +58,11 @@ function AboutMe() {
           <h4>Bootstrap</h4>
         </div>
       </div>
+
       <Typography variant="h6" gutterBottom>
         Idiomas
       </Typography>
+
       <List>
         <ListItem>Español: Nativo</ListItem>
         <ListItem>Inglés: B2 Intermedio (Certificado por Instituto Cambridge)</ListItem>
@@ -64,7 +70,7 @@ function AboutMe() {
       <div>
         <p>Esta web fué hecha con: ReactJS, MUI, React Router, Sass, FontAwesome y Ant Design.
         </p>
-    </div>
+      </div>
     </div>
   );
 }
